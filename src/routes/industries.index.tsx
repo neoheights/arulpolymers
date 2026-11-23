@@ -1,0 +1,20 @@
+import { createFileRoute } from "@tanstack/react-router";
+import { IndustriesPage } from "@/components/site/IndustriesPage";
+
+const TITLE = "Industries | Arul Polymers";
+const DESC = "Engineered rubber and plastic components for automobile, mining, potable water, aerospace and defence, oil and gas, and agriculture.";
+
+export const Route = createFileRoute("/industries/")({
+  head: () => ({
+    meta: [
+      { title: TITLE },
+      { name: "description", content: DESC },
+      { property: "og:title", content: TITLE },
+      { property: "og:description", content: DESC },
+      { property: "og:type", content: "website" },
+      { name: "twitter:card", content: "summary_large_image" },
+    ],
+    links: [{ rel: "canonical", href: "https://arulpolymers.capsley.site/industries" }],
+  }),
+  component: IndustriesPage,
+});

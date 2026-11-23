@@ -1,0 +1,1366 @@
+[
+  {
+    "category": "potable-water",
+    "product": "wedge",
+    "source": "/Potable Water - New/Wedges/101.jpg",
+    "dimensions": [
+      1600,
+      1200
+    ],
+    "webPointer": "src/assets/products/latest/potable-water/wedges/web-101.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/potable-water/wedges/original-101.jpg.asset.json"
+  },
+  {
+    "category": "potable-water",
+    "product": "wedge",
+    "source": "/Potable Water - New/Wedges/_CPG4090.jpg",
+    "dimensions": [
+      2624,
+      2889
+    ],
+    "webPointer": "src/assets/products/latest/potable-water/wedges/web-cpg4090.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/potable-water/wedges/original-cpg4090.jpg.asset.json"
+  },
+  {
+    "category": "potable-water",
+    "product": "tyton-gaskets",
+    "source": "/Potable Water - New/Tyton Gaskets/136.jpg",
+    "dimensions": [
+      1600,
+      1200
+    ],
+    "webPointer": "src/assets/products/latest/potable-water/tyton-gaskets/web-136.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/potable-water/tyton-gaskets/original-136.jpg.asset.json"
+  },
+  {
+    "category": "potable-water",
+    "product": "tyton-gaskets",
+    "source": "/Potable Water - New/Tyton Gaskets/Picture1.jpg",
+    "dimensions": [
+      326,
+      347
+    ],
+    "webPointer": "src/assets/products/latest/potable-water/tyton-gaskets/web-picture1.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/potable-water/tyton-gaskets/original-picture1.jpg.asset.json"
+  },
+  {
+    "category": "potable-water",
+    "product": "tyton-gaskets",
+    "source": "/Potable Water - New/Tyton Gaskets/20240704_122738.jpg",
+    "dimensions": [
+      3060,
+      4080
+    ],
+    "webPointer": "src/assets/products/latest/potable-water/tyton-gaskets/web-20240704-122738.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/potable-water/tyton-gaskets/original-20240704-122738.jpg.asset.json"
+  },
+  {
+    "category": "potable-water",
+    "product": "wras-seals-o-rings",
+    "source": "/Potable Water - New/WRAS Approved Seals and O Rings/142.jpg",
+    "dimensions": [
+      1600,
+      1200
+    ],
+    "webPointer": "src/assets/products/latest/potable-water/wras-approved-seals-and-o-rings/web-142.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/potable-water/wras-approved-seals-and-o-rings/original-142.jpg.asset.json"
+  },
+  {
+    "category": "potable-water",
+    "product": "wras-seals-o-rings",
+    "source": "/Potable Water - New/WRAS Approved Seals and O Rings/134.jpg",
+    "dimensions": [
+      1600,
+      1200
+    ],
+    "webPointer": "src/assets/products/latest/potable-water/wras-approved-seals-and-o-rings/web-134.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/potable-water/wras-approved-seals-and-o-rings/original-134.jpg.asset.json"
+  },
+  {
+    "category": "potable-water",
+    "product": "wras-seals-o-rings",
+    "source": "/Potable Water - New/WRAS Approved Seals and O Rings/O-Ring2.jpg",
+    "dimensions": [
+      5068,
+      3379
+    ],
+    "webPointer": "src/assets/products/latest/potable-water/wras-approved-seals-and-o-rings/web-o-ring2.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/potable-water/wras-approved-seals-and-o-rings/original-o-ring2.jpg.asset.json"
+  },
+  {
+    "category": "potable-water",
+    "product": "wras-seals-o-rings",
+    "source": "/Potable Water - New/WRAS Approved Seals and O Rings/_CPG4099.jpg",
+    "dimensions": [
+      5032,
+      3670
+    ],
+    "webPointer": "src/assets/products/latest/potable-water/wras-approved-seals-and-o-rings/web-cpg4099.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/potable-water/wras-approved-seals-and-o-rings/original-cpg4099.jpg.asset.json"
+  },
+  {
+    "category": "automobile",
+    "product": "bellows",
+    "source": "/Auomobile - New/Bellows for hydraulic systems - New/059.jpg",
+    "dimensions": [
+      1600,
+      1200
+    ],
+    "webPointer": "src/assets/products/latest/automobile/bellows-for-hydraulic-systems/web-059.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/automobile/bellows-for-hydraulic-systems/original-059.jpg.asset.json"
+  },
+  {
+    "category": "automobile",
+    "product": "bellows",
+    "source": "/Auomobile - New/Bellows for hydraulic systems - New/055.jpg",
+    "dimensions": [
+      1600,
+      1200
+    ],
+    "webPointer": "src/assets/products/latest/automobile/bellows-for-hydraulic-systems/web-055.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/automobile/bellows-for-hydraulic-systems/original-055.jpg.asset.json"
+  },
+  {
+    "category": "automobile",
+    "product": "bellows",
+    "source": "/Auomobile - New/Bellows for hydraulic systems - New/32.jpg",
+    "dimensions": [
+      6639,
+      3822
+    ],
+    "webPointer": "src/assets/products/latest/automobile/bellows-for-hydraulic-systems/web-32.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/automobile/bellows-for-hydraulic-systems/original-32.jpg.asset.json"
+  },
+  {
+    "category": "automobile",
+    "product": "bellows",
+    "source": "/Auomobile - New/Bellows for hydraulic systems - New/Arul Rubbers1310.jpg",
+    "dimensions": [
+      2048,
+      1367
+    ],
+    "webPointer": "src/assets/products/latest/automobile/bellows-for-hydraulic-systems/web-arul-rubbers1310.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/automobile/bellows-for-hydraulic-systems/original-arul-rubbers1310.jpg.asset.json"
+  },
+  {
+    "category": "automobile",
+    "product": "engine-exhaust",
+    "source": "/Auomobile - New/Engine Exhaust System Rubber parts - New/073.jpg",
+    "dimensions": [
+      1600,
+      1200
+    ],
+    "webPointer": "src/assets/products/latest/automobile/engine-exhaust-system-rubber-parts/web-073.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/automobile/engine-exhaust-system-rubber-parts/original-073.jpg.asset.json"
+  },
+  {
+    "category": "automobile",
+    "product": "engine-exhaust",
+    "source": "/Auomobile - New/Engine Exhaust System Rubber parts - New/032.jpg",
+    "dimensions": [
+      1600,
+      1200
+    ],
+    "webPointer": "src/assets/products/latest/automobile/engine-exhaust-system-rubber-parts/web-032.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/automobile/engine-exhaust-system-rubber-parts/original-032.jpg.asset.json"
+  },
+  {
+    "category": "automobile",
+    "product": "engine-exhaust",
+    "source": "/Auomobile - New/Engine Exhaust System Rubber parts - New/026.jpg",
+    "dimensions": [
+      1600,
+      1200
+    ],
+    "webPointer": "src/assets/products/latest/automobile/engine-exhaust-system-rubber-parts/web-026.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/automobile/engine-exhaust-system-rubber-parts/original-026.jpg.asset.json"
+  },
+  {
+    "category": "automobile",
+    "product": "engine-exhaust",
+    "source": "/Auomobile - New/Engine Exhaust System Rubber parts - New/Arul Rubbers1407.jpg",
+    "dimensions": [
+      5770,
+      3852
+    ],
+    "webPointer": "src/assets/products/latest/automobile/engine-exhaust-system-rubber-parts/web-arul-rubbers1407.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/automobile/engine-exhaust-system-rubber-parts/original-arul-rubbers1407.jpg.asset.json"
+  },
+  {
+    "category": "automobile",
+    "product": "engine-exhaust",
+    "source": "/Auomobile - New/Engine Exhaust System Rubber parts - New/Arul Rubbers1327 1.jpg",
+    "dimensions": [
+      5770,
+      3852
+    ],
+    "webPointer": "src/assets/products/latest/automobile/engine-exhaust-system-rubber-parts/web-arul-rubbers1327-1.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/automobile/engine-exhaust-system-rubber-parts/original-arul-rubbers1327-1.jpg.asset.json"
+  },
+  {
+    "category": "automobile",
+    "product": "ev-rubber-parts",
+    "source": "/Auomobile - New/EV Rubber Parts - New/110.jpg",
+    "dimensions": [
+      1600,
+      1200
+    ],
+    "webPointer": "src/assets/products/latest/automobile/ev-rubber-parts/web-110.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/automobile/ev-rubber-parts/original-110.jpg.asset.json"
+  },
+  {
+    "category": "automobile",
+    "product": "ev-rubber-parts",
+    "source": "/Auomobile - New/EV Rubber Parts - New/105.jpg",
+    "dimensions": [
+      1600,
+      1200
+    ],
+    "webPointer": "src/assets/products/latest/automobile/ev-rubber-parts/web-105.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/automobile/ev-rubber-parts/original-105.jpg.asset.json"
+  },
+  {
+    "category": "automobile",
+    "product": "engine-gaskets",
+    "source": "/Auomobile - New/Engine Gaskets - New/043.jpg",
+    "dimensions": [
+      1600,
+      1200
+    ],
+    "webPointer": "src/assets/products/latest/automobile/engine-gaskets/web-043.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/automobile/engine-gaskets/original-043.jpg.asset.json"
+  },
+  {
+    "category": "automobile",
+    "product": "engine-gaskets",
+    "source": "/Auomobile - New/Engine Gaskets - New/28.jpg",
+    "dimensions": [
+      6468,
+      4344
+    ],
+    "webPointer": "src/assets/products/latest/automobile/engine-gaskets/web-28.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/automobile/engine-gaskets/original-28.jpg.asset.json"
+  },
+  {
+    "category": "automobile",
+    "product": "o-rings-seals",
+    "source": "/Auomobile - New/O Ring and Seals - New/IMG_9463.jpg",
+    "dimensions": [
+      5086,
+      3391
+    ],
+    "webPointer": "src/assets/products/latest/automobile/o-ring-and-seals/web-img-9463.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/automobile/o-ring-and-seals/original-img-9463.jpg.asset.json"
+  },
+  {
+    "category": "automobile",
+    "product": "o-rings-seals",
+    "source": "/Auomobile - New/O Ring and Seals - New/O-Ring1.jpg",
+    "dimensions": [
+      5044,
+      3363
+    ],
+    "webPointer": "src/assets/products/latest/automobile/o-ring-and-seals/web-o-ring1.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/automobile/o-ring-and-seals/original-o-ring1.jpg.asset.json"
+  },
+  {
+    "category": "automobile",
+    "product": "o-rings-seals",
+    "source": "/Auomobile - New/O Ring and Seals - New/IMG_9449.jpg",
+    "dimensions": [
+      5081,
+      3387
+    ],
+    "webPointer": "src/assets/products/latest/automobile/o-ring-and-seals/web-img-9449.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/automobile/o-ring-and-seals/original-img-9449.jpg.asset.json"
+  },
+  {
+    "category": "automobile",
+    "product": "o-rings-seals",
+    "source": "/Auomobile - New/O Ring and Seals - New/Seal.jpg",
+    "dimensions": [
+      1275,
+      1280
+    ],
+    "webPointer": "src/assets/products/latest/automobile/o-ring-and-seals/web-seal.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/automobile/o-ring-and-seals/original-seal.jpg.asset.json"
+  },
+  {
+    "category": "automobile",
+    "product": "o-rings-seals",
+    "source": "/Auomobile - New/O Ring and Seals - New/IMG_9486.jpg",
+    "dimensions": [
+      5086,
+      3391
+    ],
+    "webPointer": "src/assets/products/latest/automobile/o-ring-and-seals/web-img-9486.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/automobile/o-ring-and-seals/original-img-9486.jpg.asset.json"
+  },
+  {
+    "category": "automobile",
+    "product": "o-rings-seals",
+    "source": "/Auomobile - New/O Ring and Seals - New/IMG_9447.jpg",
+    "dimensions": [
+      5082,
+      3388
+    ],
+    "webPointer": "src/assets/products/latest/automobile/o-ring-and-seals/web-img-9447.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/automobile/o-ring-and-seals/original-img-9447.jpg.asset.json"
+  },
+  {
+    "category": "automobile",
+    "product": "o-rings-seals",
+    "source": "/Auomobile - New/O Ring and Seals - New/07.jpg",
+    "dimensions": [
+      5910,
+      3552
+    ],
+    "webPointer": "src/assets/products/latest/automobile/o-ring-and-seals/web-07.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/automobile/o-ring-and-seals/original-07.jpg.asset.json"
+  },
+  {
+    "category": "automobile",
+    "product": "o-rings-seals",
+    "source": "/Auomobile - New/O Ring and Seals - New/05.jpg",
+    "dimensions": [
+      7008,
+      4672
+    ],
+    "webPointer": "src/assets/products/latest/automobile/o-ring-and-seals/web-05.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/automobile/o-ring-and-seals/original-05.jpg.asset.json"
+  },
+  {
+    "category": "automobile",
+    "product": "o-rings-seals",
+    "source": "/Auomobile - New/O Ring and Seals - New/_CPG0817.jpg",
+    "dimensions": [
+      5472,
+      3648
+    ],
+    "webPointer": "src/assets/products/latest/automobile/o-ring-and-seals/web-cpg0817.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/automobile/o-ring-and-seals/original-cpg0817.jpg.asset.json"
+  },
+  {
+    "category": "automobile",
+    "product": "three-wheelers",
+    "source": "/Auomobile - New/Three Wheeler Parts - New/093.jpg",
+    "dimensions": [
+      1600,
+      1200
+    ],
+    "webPointer": "src/assets/products/latest/automobile/three-wheeler-parts/web-093.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/automobile/three-wheeler-parts/original-093.jpg.asset.json"
+  },
+  {
+    "category": "automobile",
+    "product": "fuel-filter",
+    "source": "/Auomobile - New/Fuel Filter Parts - New/087.jpg",
+    "dimensions": [
+      1600,
+      1200
+    ],
+    "webPointer": "src/assets/products/latest/automobile/fuel-filter-parts/web-087.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/automobile/fuel-filter-parts/original-087.jpg.asset.json"
+  },
+  {
+    "category": "automobile",
+    "product": "fuel-filter",
+    "source": "/Auomobile - New/Fuel Filter Parts - New/028.jpg",
+    "dimensions": [
+      1600,
+      1200
+    ],
+    "webPointer": "src/assets/products/latest/automobile/fuel-filter-parts/web-028.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/automobile/fuel-filter-parts/original-028.jpg.asset.json"
+  },
+  {
+    "category": "agriculture",
+    "product": "tiller-tyre",
+    "source": "/Auomobile - New/Tiller Parts - New/054.jpg",
+    "dimensions": [
+      1600,
+      1200
+    ],
+    "webPointer": "src/assets/products/latest/agriculture/tiller-tyre/web-054.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/agriculture/tiller-tyre/original-054.jpg.asset.json"
+  },
+  {
+    "category": "agriculture",
+    "product": "tiller-tyre",
+    "source": "/Auomobile - New/Tiller Parts - New/053.jpg",
+    "dimensions": [
+      1600,
+      1200
+    ],
+    "webPointer": "src/assets/products/latest/agriculture/tiller-tyre/web-053.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/agriculture/tiller-tyre/original-053.jpg.asset.json"
+  },
+  {
+    "category": "agriculture",
+    "product": "tiller-tyre",
+    "source": "/Auomobile - New/Tiller Parts - New/Rotavator-Rubber-Tyres.jpg",
+    "dimensions": [
+      500,
+      500
+    ],
+    "webPointer": "src/assets/products/latest/agriculture/tiller-tyre/web-rotavator-rubber-tyres.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/agriculture/tiller-tyre/original-rotavator-rubber-tyres.jpg.asset.json"
+  },
+  {
+    "category": "automobile",
+    "product": "suspension",
+    "source": "/Auomobile - New/Suspension parts - New/082.jpg",
+    "dimensions": [
+      1600,
+      1200
+    ],
+    "webPointer": "src/assets/products/latest/automobile/suspension-parts/web-082.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/automobile/suspension-parts/original-082.jpg.asset.json"
+  },
+  {
+    "category": "automobile",
+    "product": "suspension",
+    "source": "/Auomobile - New/Suspension parts - New/ABS.jpg",
+    "dimensions": [
+      5770,
+      3852
+    ],
+    "webPointer": "src/assets/products/latest/automobile/suspension-parts/web-abs.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/automobile/suspension-parts/original-abs.jpg.asset.json"
+  },
+  {
+    "category": "automobile",
+    "product": "footrest",
+    "source": "/Auomobile - New/Foot Rest - New/05.jpg",
+    "dimensions": [
+      1600,
+      1200
+    ],
+    "webPointer": "src/assets/products/latest/automobile/foot-rest/web-05.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/automobile/foot-rest/original-05.jpg.asset.json"
+  },
+  {
+    "category": "automobile",
+    "product": "footrest",
+    "source": "/Auomobile - New/Foot Rest - New/20260918_174226.jpg",
+    "dimensions": [
+      1574,
+      1090
+    ],
+    "webPointer": "src/assets/products/latest/automobile/foot-rest/web-20260918-174226.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/automobile/foot-rest/original-20260918-174226.jpg.asset.json"
+  },
+  {
+    "category": "automobile",
+    "product": "swing-arm-bushes",
+    "source": "/Auomobile - New/Swing Arm Bushes - New/013.jpg",
+    "dimensions": [
+      1600,
+      1200
+    ],
+    "webPointer": "src/assets/products/latest/automobile/swing-arm-bushes/web-013.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/automobile/swing-arm-bushes/original-013.jpg.asset.json"
+  },
+  {
+    "category": "automobile",
+    "product": "swing-arm-bushes",
+    "source": "/Auomobile - New/Swing Arm Bushes - New/Arul Rubbers1387.jpg",
+    "dimensions": [
+      5784,
+      3861
+    ],
+    "webPointer": "src/assets/products/latest/automobile/swing-arm-bushes/web-arul-rubbers1387.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/automobile/swing-arm-bushes/original-arul-rubbers1387.jpg.asset.json"
+  },
+  {
+    "category": "automobile",
+    "product": "swing-arm-bushes",
+    "source": "/Auomobile - New/Swing Arm Bushes - New/Arul Rubbers1384.jpg",
+    "dimensions": [
+      5784,
+      3861
+    ],
+    "webPointer": "src/assets/products/latest/automobile/swing-arm-bushes/web-arul-rubbers1384.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/automobile/swing-arm-bushes/original-arul-rubbers1384.jpg.asset.json"
+  },
+  {
+    "category": "automobile",
+    "product": "swing-arm-bushes",
+    "source": "/Auomobile - New/Swing Arm Bushes - New/Arul Rubbers1383.jpg",
+    "dimensions": [
+      5784,
+      3861
+    ],
+    "webPointer": "src/assets/products/latest/automobile/swing-arm-bushes/web-arul-rubbers1383.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/automobile/swing-arm-bushes/original-arul-rubbers1383.jpg.asset.json"
+  },
+  {
+    "category": "automobile",
+    "product": "rubber-metal-bonding",
+    "source": "/Auomobile - New/Rubber to Metal Bonding Parts - New/048.jpg",
+    "dimensions": [
+      1600,
+      1200
+    ],
+    "webPointer": "src/assets/products/latest/automobile/rubber-to-metal-bonding-parts/web-048.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/automobile/rubber-to-metal-bonding-parts/original-048.jpg.asset.json"
+  },
+  {
+    "category": "automobile",
+    "product": "rubber-metal-bonding",
+    "source": "/Auomobile - New/Rubber to Metal Bonding Parts - New/113.jpg",
+    "dimensions": [
+      1600,
+      1200
+    ],
+    "webPointer": "src/assets/products/latest/automobile/rubber-to-metal-bonding-parts/web-113.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/automobile/rubber-to-metal-bonding-parts/original-113.jpg.asset.json"
+  },
+  {
+    "category": "automobile",
+    "product": "rubber-metal-bonding",
+    "source": "/Auomobile - New/Rubber to Metal Bonding Parts - New/IMG_9518.jpg",
+    "dimensions": [
+      5086,
+      3391
+    ],
+    "webPointer": "src/assets/products/latest/automobile/rubber-to-metal-bonding-parts/web-img-9518.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/automobile/rubber-to-metal-bonding-parts/original-img-9518.jpg.asset.json"
+  },
+  {
+    "category": "automobile",
+    "product": "rubber-metal-bonding",
+    "source": "/Auomobile - New/Rubber to Metal Bonding Parts - New/IMG_9505.jpg",
+    "dimensions": [
+      5041,
+      3361
+    ],
+    "webPointer": "src/assets/products/latest/automobile/rubber-to-metal-bonding-parts/web-img-9505.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/automobile/rubber-to-metal-bonding-parts/original-img-9505.jpg.asset.json"
+  },
+  {
+    "category": "automobile",
+    "product": "rubber-metal-bonding",
+    "source": "/Auomobile - New/Rubber to Metal Bonding Parts - New/45.jpg",
+    "dimensions": [
+      4506,
+      3438
+    ],
+    "webPointer": "src/assets/products/latest/automobile/rubber-to-metal-bonding-parts/web-45.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/automobile/rubber-to-metal-bonding-parts/original-45.jpg.asset.json"
+  },
+  {
+    "category": "automobile",
+    "product": "rubber-metal-bonding",
+    "source": "/Auomobile - New/Rubber to Metal Bonding Parts - New/20.jpg",
+    "dimensions": [
+      4212,
+      3204
+    ],
+    "webPointer": "src/assets/products/latest/automobile/rubber-to-metal-bonding-parts/web-20.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/automobile/rubber-to-metal-bonding-parts/original-20.jpg.asset.json"
+  },
+  {
+    "category": "automobile",
+    "product": "rubber-metal-bonding",
+    "source": "/Auomobile - New/Rubber to Metal Bonding Parts - New/34.jpg",
+    "dimensions": [
+      4698,
+      2718
+    ],
+    "webPointer": "src/assets/products/latest/automobile/rubber-to-metal-bonding-parts/web-34.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/automobile/rubber-to-metal-bonding-parts/original-34.jpg.asset.json"
+  },
+  {
+    "category": "automobile",
+    "product": "rubber-metal-bonding",
+    "source": "/Auomobile - New/Rubber to Metal Bonding Parts - New/Arul Rubbers1376.jpg",
+    "dimensions": [
+      5770,
+      3852
+    ],
+    "webPointer": "src/assets/products/latest/automobile/rubber-to-metal-bonding-parts/web-arul-rubbers1376.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/automobile/rubber-to-metal-bonding-parts/original-arul-rubbers1376.jpg.asset.json"
+  },
+  {
+    "category": "atm-rubber-parts",
+    "product": "atm-rubber-parts",
+    "source": "/ATM Parts - New/43.jpg",
+    "dimensions": [
+      5394,
+      2880
+    ],
+    "webPointer": "src/assets/products/latest/atm-rubber-parts/web-43.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/atm-rubber-parts/original-43.jpg.asset.json"
+  },
+  {
+    "category": "mining",
+    "product": "ball-mill-liner",
+    "source": "/Mining - New/Wear Resistance Products/Ball Mill Liner/WhatsApp Image 2026-03-14 at 17.37.50 (1).jpeg",
+    "dimensions": [
+      1600,
+      1200
+    ],
+    "webPointer": "src/assets/products/latest/mining/wear-resistance-products/ball-mill-liner/clean-liner-01.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/mining/wear-resistance-products/ball-mill-liner/original-whatsapp-image-2026-03-14-at-17-37-50-1.jpeg.asset.json"
+  },
+  {
+    "category": "mining",
+    "product": "ball-mill-liner",
+    "source": "/Mining - New/Wear Resistance Products/Ball Mill Liner/WhatsApp Image 2026-03-14 at 17.37.49.jpeg",
+    "dimensions": [
+      1600,
+      1200
+    ],
+    "webPointer": "src/assets/products/latest/mining/wear-resistance-products/ball-mill-liner/clean-liner-02.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/mining/wear-resistance-products/ball-mill-liner/original-whatsapp-image-2026-03-14-at-17-37-49.jpeg.asset.json"
+  },
+  {
+    "category": "mining",
+    "product": "ball-mill-liner",
+    "source": "/Mining - New/Wear Resistance Products/Ball Mill Liner/WhatsApp Image 2026-03-14 at 17.37.48 (1).jpeg",
+    "dimensions": [
+      1600,
+      1200
+    ],
+    "webPointer": "src/assets/products/latest/mining/wear-resistance-products/ball-mill-liner/clean-liner-03.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/mining/wear-resistance-products/ball-mill-liner/original-whatsapp-image-2026-03-14-at-17-37-48-1.jpeg.asset.json"
+  },
+  {
+    "category": "mining",
+    "product": "ball-mill-liner",
+    "source": "/Mining - New/Wear Resistance Products/Ball Mill Liner/WhatsApp Image 2026-03-14 at 17.37.51 (1).jpeg",
+    "dimensions": [
+      1600,
+      1200
+    ],
+    "webPointer": "src/assets/products/latest/mining/wear-resistance-products/ball-mill-liner/clean-liner-04.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/mining/wear-resistance-products/ball-mill-liner/original-whatsapp-image-2026-03-14-at-17-37-51-1.jpeg.asset.json"
+  },
+  {
+    "category": "mining",
+    "product": "ball-mill-liner",
+    "source": "/Mining - New/Wear Resistance Products/Ball Mill Liner/WhatsApp Image 2026-03-14 at 17.37.52.jpeg",
+    "dimensions": [
+      1600,
+      1200
+    ],
+    "webPointer": "src/assets/products/latest/mining/wear-resistance-products/ball-mill-liner/clean-liner-05.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/mining/wear-resistance-products/ball-mill-liner/original-whatsapp-image-2026-03-14-at-17-37-52.jpeg.asset.json"
+  },
+  {
+    "category": "mining",
+    "product": "ball-mill-liner",
+    "source": "/Mining - New/Wear Resistance Products/Ball Mill Liner/WhatsApp Image 2026-03-14 at 17.37.47.jpeg",
+    "dimensions": [
+      1600,
+      1200
+    ],
+    "webPointer": "src/assets/products/latest/mining/wear-resistance-products/ball-mill-liner/clean-liner-06.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/mining/wear-resistance-products/ball-mill-liner/original-whatsapp-image-2026-03-14-at-17-37-47.jpeg.asset.json"
+  },
+  {
+    "category": "mining",
+    "product": "ball-mill-liner",
+    "source": "/Mining - New/Wear Resistance Products/Ball Mill Liner/WhatsApp Image 2026-03-14 at 17.37.49 (1).jpeg",
+    "dimensions": [
+      1200,
+      1600
+    ],
+    "webPointer": "src/assets/products/latest/mining/wear-resistance-products/ball-mill-liner/clean-liner-07.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/mining/wear-resistance-products/ball-mill-liner/original-whatsapp-image-2026-03-14-at-17-37-49-1.jpeg.asset.json"
+  },
+  {
+    "category": "mining",
+    "product": "slurry-hoses",
+    "source": "/Mining - New/Wear Resistance Products/Slurry Hoses/rubber-expansion-bellow.jpg",
+    "dimensions": [
+      1100,
+      1000
+    ],
+    "webPointer": "src/assets/products/latest/mining/wear-resistance-products/slurry-hoses/web-rubber-expansion-bellow.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/mining/wear-resistance-products/slurry-hoses/original-rubber-expansion-bellow.jpg.asset.json"
+  },
+  {
+    "category": "mining",
+    "product": "slurry-hoses",
+    "source": "/Mining - New/Wear Resistance Products/Slurry Hoses/Picture33.jpg",
+    "dimensions": [
+      422,
+      316
+    ],
+    "webPointer": "src/assets/products/latest/mining/wear-resistance-products/slurry-hoses/web-picture33.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/mining/wear-resistance-products/slurry-hoses/original-picture33.jpg.asset.json"
+  },
+  {
+    "category": "mining",
+    "product": "slurry-hoses",
+    "source": "/Mining - New/Wear Resistance Products/Slurry Hoses/Picture32.jpg",
+    "dimensions": [
+      318,
+      346
+    ],
+    "webPointer": "src/assets/products/latest/mining/wear-resistance-products/slurry-hoses/web-picture32.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/mining/wear-resistance-products/slurry-hoses/original-picture32.jpg.asset.json"
+  },
+  {
+    "category": "mining",
+    "product": "slurry-hoses",
+    "source": "/Mining - New/Wear Resistance Products/Slurry Hoses/IMG_1706.JPG",
+    "dimensions": [
+      5385,
+      3280
+    ],
+    "webPointer": "src/assets/products/latest/mining/wear-resistance-products/slurry-hoses/web-img-1706.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/mining/wear-resistance-products/slurry-hoses/original-img-1706.jpg.asset.json"
+  },
+  {
+    "category": "mining",
+    "product": "slurry-hoses",
+    "source": "/Mining - New/Wear Resistance Products/Slurry Hoses/IMG_1700 - Copy.JPG",
+    "dimensions": [
+      5619,
+      3176
+    ],
+    "webPointer": "src/assets/products/latest/mining/wear-resistance-products/slurry-hoses/web-img-1700-copy.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/mining/wear-resistance-products/slurry-hoses/original-img-1700-copy.jpg.asset.json"
+  },
+  {
+    "category": "mining",
+    "product": "slurry-hoses",
+    "source": "/Mining - New/Wear Resistance Products/Slurry Hoses/IMG_1697.JPG",
+    "dimensions": [
+      5161,
+      2547
+    ],
+    "webPointer": "src/assets/products/latest/mining/wear-resistance-products/slurry-hoses/web-img-1697.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/mining/wear-resistance-products/slurry-hoses/original-img-1697.jpg.asset.json"
+  },
+  {
+    "category": "mining",
+    "product": "pu-screens",
+    "source": "/Mining - New/Wear Resistance Products/Pu Screens/Picture31.jpg",
+    "dimensions": [
+      313,
+      209
+    ],
+    "webPointer": "src/assets/products/latest/mining/wear-resistance-products/pu-screens/web-picture31.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/mining/wear-resistance-products/pu-screens/original-picture31.jpg.asset.json"
+  },
+  {
+    "category": "mining",
+    "product": "pu-screens",
+    "source": "/Mining - New/Wear Resistance Products/Pu Screens/Picture30.jpg",
+    "dimensions": [
+      369,
+      491
+    ],
+    "webPointer": "src/assets/products/latest/mining/wear-resistance-products/pu-screens/web-picture30.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/mining/wear-resistance-products/pu-screens/original-picture30.jpg.asset.json"
+  },
+  {
+    "category": "mining",
+    "product": "pu-screens",
+    "source": "/Mining - New/Wear Resistance Products/Pu Screens/Picture29.jpg",
+    "dimensions": [
+      244,
+      244
+    ],
+    "webPointer": "src/assets/products/latest/mining/wear-resistance-products/pu-screens/web-picture29.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/mining/wear-resistance-products/pu-screens/original-picture29.jpg.asset.json"
+  },
+  {
+    "category": "mining",
+    "product": "pu-screens",
+    "source": "/Mining - New/Wear Resistance Products/Pu Screens/Picture28.jpg",
+    "dimensions": [
+      226,
+      226
+    ],
+    "webPointer": "src/assets/products/latest/mining/wear-resistance-products/pu-screens/web-picture28.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/mining/wear-resistance-products/pu-screens/original-picture28.jpg.asset.json"
+  },
+  {
+    "category": "mining",
+    "product": "slurry-pipelines-and-tank",
+    "source": "/Mining - New/Wear Resistance Products/Slurry Pipelines and Tank/IMG_0075.JPG",
+    "dimensions": [
+      2976,
+      1984
+    ],
+    "webPointer": "src/assets/products/latest/mining/wear-resistance-products/slurry-pipelines-and-tank/web-img-0075.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/mining/wear-resistance-products/slurry-pipelines-and-tank/original-img-0075.jpg.asset.json"
+  },
+  {
+    "category": "mining",
+    "product": "slurry-pipelines-and-tank",
+    "source": "/Mining - New/Wear Resistance Products/Slurry Pipelines and Tank/IMG_20211129_092057.jpg",
+    "dimensions": [
+      4608,
+      3456
+    ],
+    "webPointer": "src/assets/products/latest/mining/wear-resistance-products/slurry-pipelines-and-tank/web-img-20211129-092057.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/mining/wear-resistance-products/slurry-pipelines-and-tank/original-img-20211129-092057.jpg.asset.json"
+  },
+  {
+    "category": "mining",
+    "product": "slurry-pipelines-and-tank",
+    "source": "/Mining - New/Wear Resistance Products/Slurry Pipelines and Tank/IMG_20211125_124504.jpg",
+    "dimensions": [
+      4608,
+      3456
+    ],
+    "webPointer": "src/assets/products/latest/mining/wear-resistance-products/slurry-pipelines-and-tank/web-img-20211125-124504.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/mining/wear-resistance-products/slurry-pipelines-and-tank/original-img-20211125-124504.jpg.asset.json"
+  },
+  {
+    "category": "mining",
+    "product": "slurry-pipelines-and-tank",
+    "source": "/Mining - New/Wear Resistance Products/Slurry Pipelines and Tank/IMG_20150216_153604.jpg",
+    "dimensions": [
+      1024,
+      768
+    ],
+    "webPointer": "src/assets/products/latest/mining/wear-resistance-products/slurry-pipelines-and-tank/web-img-20150216-153604.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/mining/wear-resistance-products/slurry-pipelines-and-tank/original-img-20150216-153604.jpg.asset.json"
+  },
+  {
+    "category": "mining",
+    "product": "slurry-pipelines-and-tank",
+    "source": "/Mining - New/Wear Resistance Products/Slurry Pipelines and Tank/DSC_0141.jpg",
+    "dimensions": [
+      1632,
+      1224
+    ],
+    "webPointer": "src/assets/products/latest/mining/wear-resistance-products/slurry-pipelines-and-tank/web-dsc-0141.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/mining/wear-resistance-products/slurry-pipelines-and-tank/original-dsc-0141.jpg.asset.json"
+  },
+  {
+    "category": "mining",
+    "product": "filling-shoe-and-inlet-feed-coller",
+    "source": "/Mining - New/Filtration Parts/Filling Shoe and Inlet Feed Coller/136.jpg",
+    "dimensions": [
+      1600,
+      1200
+    ],
+    "webPointer": "src/assets/products/latest/mining/filtration-parts/filling-shoe-and-inlet-feed-coller/web-136.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/mining/filtration-parts/filling-shoe-and-inlet-feed-coller/original-136.jpg.asset.json"
+  },
+  {
+    "category": "mining",
+    "product": "filling-shoe-and-inlet-feed-coller",
+    "source": "/Mining - New/Filtration Parts/Filling Shoe and Inlet Feed Coller/132.jpg",
+    "dimensions": [
+      1600,
+      1200
+    ],
+    "webPointer": "src/assets/products/latest/mining/filtration-parts/filling-shoe-and-inlet-feed-coller/web-132.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/mining/filtration-parts/filling-shoe-and-inlet-feed-coller/original-132.jpg.asset.json"
+  },
+  {
+    "category": "mining",
+    "product": "filling-shoe-and-inlet-feed-coller",
+    "source": "/Mining - New/Filtration Parts/Filling Shoe and Inlet Feed Coller/014.jpg",
+    "dimensions": [
+      7008,
+      4672
+    ],
+    "webPointer": "src/assets/products/latest/mining/filtration-parts/filling-shoe-and-inlet-feed-coller/web-014.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/mining/filtration-parts/filling-shoe-and-inlet-feed-coller/original-014.jpg.asset.json"
+  },
+  {
+    "category": "mining",
+    "product": "filling-shoe-and-inlet-feed-coller",
+    "source": "/Mining - New/Filtration Parts/Filling Shoe and Inlet Feed Coller/024.jpg",
+    "dimensions": [
+      5400,
+      3600
+    ],
+    "webPointer": "src/assets/products/latest/mining/filtration-parts/filling-shoe-and-inlet-feed-coller/web-024.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/mining/filtration-parts/filling-shoe-and-inlet-feed-coller/original-024.jpg.asset.json"
+  },
+  {
+    "category": "mining",
+    "product": "pinch-vale-sleeve",
+    "source": "/Mining - New/Filtration Parts/Pinch Vale Sleeve/123.jpg",
+    "dimensions": [
+      1600,
+      1200
+    ],
+    "webPointer": "src/assets/products/latest/mining/filtration-parts/pinch-vale-sleeve/web-123.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/mining/filtration-parts/pinch-vale-sleeve/original-123.jpg.asset.json"
+  },
+  {
+    "category": "mining",
+    "product": "pinch-vale-sleeve",
+    "source": "/Mining - New/Filtration Parts/Pinch Vale Sleeve/122.jpg",
+    "dimensions": [
+      1600,
+      1200
+    ],
+    "webPointer": "src/assets/products/latest/mining/filtration-parts/pinch-vale-sleeve/web-122.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/mining/filtration-parts/pinch-vale-sleeve/original-122.jpg.asset.json"
+  },
+  {
+    "category": "mining",
+    "product": "ceramic-embadded-pulley",
+    "source": "/Mining - New/Material Handling/Ceramic Embadded Pulley/IMG_0490.JPG",
+    "dimensions": [
+      1984,
+      2976
+    ],
+    "webPointer": "src/assets/products/latest/mining/material-handling/ceramic-embadded-pulley/web-img-0490.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/mining/material-handling/ceramic-embadded-pulley/original-img-0490.jpg.asset.json"
+  },
+  {
+    "category": "mining",
+    "product": "ceramic-embadded-pulley",
+    "source": "/Mining - New/Material Handling/Ceramic Embadded Pulley/IMG_0487.JPG",
+    "dimensions": [
+      1984,
+      2976
+    ],
+    "webPointer": "src/assets/products/latest/mining/material-handling/ceramic-embadded-pulley/web-img-0487.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/mining/material-handling/ceramic-embadded-pulley/original-img-0487.jpg.asset.json"
+  },
+  {
+    "category": "mining",
+    "product": "arul-bond-adhasive",
+    "source": "Client upload (chat) 2026-11-02 — ArulBond CV-720 Two Part Contact Adhesive tin",
+    "dimensions": [
+      1600,
+      1142
+    ],
+    "webPointer": "src/assets/products/latest/mining/material-handling/arul-bond-adhasive/web-cv720-tin.png.asset.json",
+    "originalPointer": "src/assets/products/latest/mining/material-handling/arul-bond-adhasive/web-cv720-tin.png.asset.json"
+  },
+  {
+    "category": "mining",
+    "product": "conveyor-impact-bar",
+    "source": "/Mining - New/Material Handling/Conveyor Impact Bar/Picture14.jpg",
+    "dimensions": [
+      463,
+      361
+    ],
+    "webPointer": "src/assets/products/latest/mining/material-handling/conveyor-impact-bar/web-picture14.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/mining/material-handling/conveyor-impact-bar/original-picture14.jpg.asset.json"
+  },
+  {
+    "category": "mining",
+    "product": "conveyor-impact-bar",
+    "source": "/Mining - New/Material Handling/Conveyor Impact Bar/Picture13.jpg",
+    "dimensions": [
+      461,
+      247
+    ],
+    "webPointer": "src/assets/products/latest/mining/material-handling/conveyor-impact-bar/web-picture13.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/mining/material-handling/conveyor-impact-bar/original-picture13.jpg.asset.json"
+  },
+  {
+    "category": "aerospace-defence",
+    "product": "bellows",
+    "source": "/Aerospace and Defence - New/084.jpg",
+    "dimensions": [
+      1600,
+      1200
+    ],
+    "webPointer": "src/assets/products/latest/aerospace-defence/web-084.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/aerospace-defence/original-084.jpg.asset.json"
+  },
+  {
+    "category": "aerospace-defence",
+    "product": "custom-rubber-components",
+    "source": "/Aerospace and Defence - New/Arul Rubbers1458.jpg",
+    "dimensions": [
+      5770,
+      3852
+    ],
+    "webPointer": "src/assets/products/latest/aerospace-defence/web-arul-rubbers1458.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/aerospace-defence/original-arul-rubbers1458.jpg.asset.json"
+  },
+  {
+    "category": "aerospace-defence",
+    "product": "custom-rubber-components",
+    "source": "/Aerospace and Defence - New/Defence - Copy.jpg",
+    "dimensions": [
+      5053,
+      3369
+    ],
+    "webPointer": "src/assets/products/latest/aerospace-defence/web-defence-copy.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/aerospace-defence/original-defence-copy.jpg.asset.json"
+  },
+  {
+    "category": "aerospace-defence",
+    "product": "precision-seals",
+    "source": "/Aerospace and Defence - New/Gasket-Aerospace3.jpg",
+    "dimensions": [
+      5054,
+      3369
+    ],
+    "webPointer": "src/assets/products/latest/aerospace-defence/web-gasket-aerospace3.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/aerospace-defence/original-gasket-aerospace3.jpg.asset.json"
+  },
+  {
+    "category": "aerospace-defence",
+    "product": "precision-seals",
+    "source": "/Aerospace and Defence - New/Gasket-Aerospacce1.jpg",
+    "dimensions": [
+      5086,
+      3391
+    ],
+    "webPointer": "src/assets/products/latest/aerospace-defence/web-gasket-aerospacce1.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/aerospace-defence/original-gasket-aerospacce1.jpg.asset.json"
+  },
+  {
+    "category": "aerospace-defence",
+    "product": "bellows",
+    "source": "/Aerospace and Defence - New/Bellow-Aerospaace.jpg",
+    "dimensions": [
+      5068,
+      3379
+    ],
+    "webPointer": "src/assets/products/latest/aerospace-defence/web-bellow-aerospaace.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/aerospace-defence/original-bellow-aerospaace.jpg.asset.json"
+  },
+  {
+    "category": "aerospace-defence",
+    "product": "o-rings",
+    "source": "/Aerospace and Defence - New/Gasket-Aeropsce 5.jpg",
+    "dimensions": [
+      5086,
+      3391
+    ],
+    "webPointer": "src/assets/products/latest/aerospace-defence/web-gasket-aeropsce-5.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/aerospace-defence/original-gasket-aeropsce-5.jpg.asset.json"
+  },
+  {
+    "category": "plastic-parts",
+    "product": "plastic-parts",
+    "source": "/Plastics - New/Throtel Grip.jpg",
+    "dimensions": [
+      1600,
+      1160
+    ],
+    "webPointer": "src/assets/products/latest/plastic-parts/web-throtel-grip.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/plastic-parts/original-throtel-grip.jpg.asset.json"
+  },
+  {
+    "category": "plastic-parts",
+    "product": "plastic-parts",
+    "source": "/Plastics - New/IMG_1382.JPG",
+    "dimensions": [
+      4828,
+      3553
+    ],
+    "webPointer": "src/assets/products/latest/plastic-parts/web-img-1382.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/plastic-parts/original-img-1382.jpg.asset.json"
+  },
+  {
+    "category": "plastic-parts",
+    "product": "plastic-parts",
+    "source": "/Plastics - New/150.jpg",
+    "dimensions": [
+      1600,
+      1200
+    ],
+    "webPointer": "src/assets/products/latest/plastic-parts/web-150.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/plastic-parts/original-150.jpg.asset.json"
+  },
+  {
+    "category": "plastic-parts",
+    "product": "plastic-parts",
+    "source": "/Plastics - New/148.jpg",
+    "dimensions": [
+      1600,
+      1200
+    ],
+    "webPointer": "src/assets/products/latest/plastic-parts/web-148.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/plastic-parts/original-148.jpg.asset.json"
+  },
+  {
+    "category": "plastic-parts",
+    "product": "plastic-parts",
+    "source": "/Plastics - New/146.jpg",
+    "dimensions": [
+      1600,
+      1200
+    ],
+    "webPointer": "src/assets/products/latest/plastic-parts/web-146.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/plastic-parts/original-146.jpg.asset.json"
+  },
+  {
+    "category": "plastic-parts",
+    "product": "plastic-parts",
+    "source": "/Plastics - New/070.jpg",
+    "dimensions": [
+      1600,
+      1200
+    ],
+    "webPointer": "src/assets/products/latest/plastic-parts/web-070.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/plastic-parts/original-070.jpg.asset.json"
+  },
+  {
+    "category": "plastic-parts",
+    "product": "plastic-parts",
+    "source": "/Plastics - New/Light Guard.jpg",
+    "dimensions": [
+      1600,
+      1589
+    ],
+    "webPointer": "src/assets/products/latest/plastic-parts/web-light-guard.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/plastic-parts/original-light-guard.jpg.asset.json"
+  },
+  {
+    "category": "plastic-parts",
+    "product": "plastic-parts",
+    "source": "/Plastics - New/IMG20250423100219~2.jpg",
+    "dimensions": [
+      1455,
+      1411
+    ],
+    "webPointer": "src/assets/products/latest/plastic-parts/web-img20250423100219-2.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/plastic-parts/original-img20250423100219-2.jpg.asset.json"
+  },
+  {
+    "category": "plastic-parts",
+    "product": "plastic-parts",
+    "source": "/Plastics - New/42.jpg",
+    "dimensions": [
+      5946,
+      3498
+    ],
+    "webPointer": "src/assets/products/latest/plastic-parts/web-42.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/plastic-parts/original-42.jpg.asset.json"
+  },
+  {
+    "category": "earth-moving",
+    "product": "earth-moving",
+    "source": "/Earth Moving - New/139.jpg",
+    "dimensions": [
+      1600,
+      1200
+    ],
+    "webPointer": "src/assets/products/latest/earth-moving/web-139.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/earth-moving/original-139.jpg.asset.json"
+  },
+  {
+    "category": "earth-moving",
+    "product": "earth-moving",
+    "source": "/Earth Moving - New/076.jpg",
+    "dimensions": [
+      1600,
+      1200
+    ],
+    "webPointer": "src/assets/products/latest/earth-moving/web-076.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/earth-moving/original-076.jpg.asset.json"
+  },
+  {
+    "category": "earth-moving",
+    "product": "earth-moving",
+    "source": "/Earth Moving - New/hyfix-body-lock-assembly.jpg",
+    "dimensions": [
+      450,
+      450
+    ],
+    "webPointer": "src/assets/products/latest/earth-moving/web-hyfix-body-lock-assembly.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/earth-moving/original-hyfix-body-lock-assembly.jpg.asset.json"
+  },
+  {
+    "category": "earth-moving",
+    "product": "earth-moving",
+    "source": "/Earth Moving - New/OFF-High Way.jpg",
+    "dimensions": [
+      5770,
+      3852
+    ],
+    "webPointer": "src/assets/products/latest/earth-moving/web-off-high-way.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/earth-moving/original-off-high-way.jpg.asset.json"
+  },
+  {
+    "category": "oil-gas",
+    "product": "seals-o-rings",
+    "source": "/Oil and Gas - New/115.jpg",
+    "dimensions": [
+      1600,
+      1200
+    ],
+    "webPointer": "src/assets/products/latest/oil-gas/web-115.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/oil-gas/original-115.jpg.asset.json"
+  },
+  {
+    "category": "oil-gas",
+    "product": "seals-o-rings",
+    "source": "/Oil and Gas - New/51XYQLQUj4L.jpg",
+    "dimensions": [
+      1280,
+      962
+    ],
+    "webPointer": "src/assets/products/latest/oil-gas/web-51xyqlquj4l.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/oil-gas/original-51xyqlquj4l.jpg.asset.json"
+  },
+  {
+    "category": "oil-gas",
+    "product": "bellows",
+    "source": "/Oil and Gas - New/Picture9.jpg",
+    "dimensions": [
+      225,
+      225
+    ],
+    "webPointer": "src/assets/products/latest/oil-gas/web-picture9.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/oil-gas/original-picture9.jpg.asset.json"
+  },
+  {
+    "category": "oil-gas",
+    "product": "custom-components",
+    "source": "/Oil and Gas - New/Picture2.jpg",
+    "dimensions": [
+      237,
+      212
+    ],
+    "webPointer": "src/assets/products/latest/oil-gas/web-picture2.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/oil-gas/original-picture2.jpg.asset.json"
+  },
+  {
+    "category": "oil-gas",
+    "product": "plastic-caps",
+    "source": "/Oil and Gas - New/IMG_1385.JPG",
+    "dimensions": [
+      2551,
+      1701
+    ],
+    "webPointer": "src/assets/products/latest/oil-gas/web-img-1385.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/oil-gas/original-img-1385.jpg.asset.json"
+  },
+  {
+    "category": "mining",
+    "product": "hv-520-hot-bonding-solution",
+    "source": "Client upload (chat) 2026-10-10 — ArulBond HV520 Hot Bonding Solution",
+    "dimensions": [
+      1600,
+      1600
+    ],
+    "webPointer": "src/assets/products/latest/mining/material-handling/hv-520-hot-bonding-solution/web-hv520.png.asset.json",
+    "originalPointer": "src/assets/products/latest/mining/material-handling/hv-520-hot-bonding-solution/web-hv520.png.asset.json"
+  },
+  {
+    "category": "mining",
+    "product": "hr-200-two-part-contact-adhesive",
+    "source": "Client upload (chat) 2026-10-10 — ArulBond HR-200 Two Part Contact Adhesive",
+    "dimensions": [
+      1600,
+      1600
+    ],
+    "webPointer": "src/assets/products/latest/mining/material-handling/hr-200-two-part-contact-adhesive/web-hr200.png.asset.json",
+    "originalPointer": "src/assets/products/latest/mining/material-handling/hr-200-two-part-contact-adhesive/web-hr200.png.asset.json"
+  },
+  {
+    "category": "mining",
+    "product": "chut-liners",
+    "source": "/Client Mining update 2026-10-12/Chut Liners/Picture1.jpg",
+    "dimensions": [
+      587,
+      348
+    ],
+    "webPointer": "src/assets/products/latest/mining/wear-resistance-products/october-liners/chut-liners/web-chut-liners-chute-picture1.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/mining/wear-resistance-products/october-liners/chut-liners/original-chut-liners-chute-picture1.jpg.asset.json"
+  },
+  {
+    "category": "mining",
+    "product": "chut-liners",
+    "source": "/Client Mining update 2026-10-12/Chut Liners/Picture2.jpg",
+    "dimensions": [
+      568,
+      427
+    ],
+    "webPointer": "src/assets/products/latest/mining/wear-resistance-products/october-liners/chut-liners/web-chut-liners-chute-picture2.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/mining/wear-resistance-products/october-liners/chut-liners/original-chut-liners-chute-picture2.jpg.asset.json"
+  },
+  {
+    "category": "mining",
+    "product": "chut-liners",
+    "source": "/Client Mining update 2026-10-12/Chut Liners/Picture3.jpg",
+    "dimensions": [
+      749,
+      338
+    ],
+    "webPointer": "src/assets/products/latest/mining/wear-resistance-products/october-liners/chut-liners/web-chut-liners-chute-picture3.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/mining/wear-resistance-products/october-liners/chut-liners/original-chut-liners-chute-picture3.jpg.asset.json"
+  },
+  {
+    "category": "mining",
+    "product": "ceramic-wear-pad",
+    "source": "/Client Mining update 2026-10-12/Ceramic Wear Pad/Picture2.png",
+    "dimensions": [
+      226,
+      222
+    ],
+    "webPointer": "src/assets/products/latest/mining/wear-resistance-products/october-liners/ceramic-wear-pad/web-ceramic-wear-pad-wear-picture2.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/mining/wear-resistance-products/october-liners/ceramic-wear-pad/original-ceramic-wear-pad-wear-picture2.png.asset.json"
+  },
+  {
+    "category": "mining",
+    "product": "ceramic-wear-pad",
+    "source": "/Client Mining update 2026-10-12/Chut Liners/heavy ceramic liner-1.pdf",
+    "dimensions": [
+      1160,
+      1500
+    ],
+    "webPointer": "src/assets/products/latest/mining/wear-resistance-products/october-liners/heavy-ceramic-liner/web-heavy-ceramic-liner-heavy-ceramic-liner-1.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/mining/wear-resistance-products/october-liners/heavy-ceramic-liner/original-heavy-ceramic-liner-heavy-ceramic-liner-1.pdf.asset.json"
+  },
+  {
+    "category": "mining",
+    "product": "ceramic-wear-pad",
+    "source": "/Client Mining update 2026-10-12/Chut Liners/Plain ceramic pad.pdf",
+    "dimensions": [
+      1160,
+      1500
+    ],
+    "webPointer": "src/assets/products/latest/mining/wear-resistance-products/october-liners/plain-ceramic-pad/web-plain-ceramic-pad-plain-ceramic-pad.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/mining/wear-resistance-products/october-liners/plain-ceramic-pad/original-plain-ceramic-pad-plain-ceramic-pad.pdf.asset.json"
+  },
+  {
+    "category": "mining",
+    "product": "ceramic-wear-pad",
+    "source": "/Client Mining update 2026-10-12/Chut Liners/hex ceramic.pdf",
+    "dimensions": [
+      1160,
+      1500
+    ],
+    "webPointer": "src/assets/products/latest/mining/wear-resistance-products/october-liners/hex-ceramic/web-hex-ceramic-hex-ceramic.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/mining/wear-resistance-products/october-liners/hex-ceramic/original-hex-ceramic-hex-ceramic.pdf.asset.json"
+  },
+  {
+    "category": "mining",
+    "product": "ceramic-wear-pad",
+    "source": "/Client Mining update 2026-10-12/Chut Liners/hex ceramic liner-4.pdf",
+    "dimensions": [
+      1160,
+      1500
+    ],
+    "webPointer": "src/assets/products/latest/mining/wear-resistance-products/october-liners/hex-ceramic-liner/web-hex-ceramic-liner-hex-ceramic-liner-4.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/mining/wear-resistance-products/october-liners/hex-ceramic-liner/original-hex-ceramic-liner-hex-ceramic-liner-4.pdf.asset.json"
+  },
+  {
+    "category": "mining",
+    "product": "rubber-wear-liner",
+    "source": "/Client Mining update 2026-10-12/Ceramic Wear Pad/Rubber wear Liner.pdf",
+    "dimensions": [
+      1160,
+      1500
+    ],
+    "webPointer": "src/assets/products/latest/mining/wear-resistance-products/october-liners/rubber-wear-liner/web-rubber-wear-liner-rubber-wear-liner.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/mining/wear-resistance-products/october-liners/rubber-wear-liner/original-rubber-wear-liner-rubber-wear-liner.pdf.asset.json"
+  },
+  {
+    "category": "mining",
+    "product": "rubber-wear-liner-metal-backing",
+    "source": "/Client Mining update 2026-10-12/Ceramic Wear Pad/Rubber wear Liner with Metal backing.pdf",
+    "dimensions": [
+      1160,
+      1500
+    ],
+    "webPointer": "src/assets/products/latest/mining/wear-resistance-products/october-liners/rubber-wear-liner-metal-backing/web-rubber-wear-liner-metal-backing-rubber-wear-liner-with-metal-backing.webp.asset.json",
+    "originalPointer": "src/assets/products/latest/mining/wear-resistance-products/october-liners/rubber-wear-liner-metal-backing/original-rubber-wear-liner-metal-backing-rubber-wear-liner-with-metal-backing.pdf.asset.json"
+  }
+]
