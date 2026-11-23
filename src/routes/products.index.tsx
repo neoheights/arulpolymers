@@ -17,10 +17,10 @@ export const Route = createFileRoute("/products/")({
       { property: "og:title", content: TITLE },
       { property: "og:description", content: DESC },
       { property: "og:type", content: "product" },
-      { property: "og:url", content: "https://arul-polymer-engineering.lovable.app/products" },
+      { property: "og:url", content: "https://arulpolymers.com/products" },
       { name: "twitter:card", content: "summary_large_image" },
     ],
-    links: [{ rel: "canonical", href: "https://arul-polymer-engineering.lovable.app/products" }],
+    links: [{ rel: "canonical", href: "https://arulpolymers.com/products" }],
   }),
   component: ProductsPage,
 });

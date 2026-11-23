@@ -31,11 +31,11 @@ export const Route = createFileRoute("/about/the-company")({
       { property: "og:title", content: TITLE },
       { property: "og:description", content: DESC },
       { property: "og:type", content: "article" },
-      { property: "og:url", content: "https://arul-polymer-engineering.lovable.app/about/the-company" },
+      { property: "og:url", content: "https://arulpolymers.com/about/the-company" },
       { name: "twitter:card", content: "summary_large_image" },
     ],
     links: [
-      { rel: "canonical", href: "https://arul-polymer-engineering.lovable.app/about/the-company" },
+      { rel: "canonical", href: "https://arulpolymers.com/about/the-company" },
     ],
   }),
   component: CompanyPage,

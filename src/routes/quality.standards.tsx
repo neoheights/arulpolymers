@@ -25,12 +25,12 @@ export const Route = createFileRoute("/quality/standards")({
       { property: "og:type", content: "article" },
       {
         property: "og:url",
-        content: "https://arul-polymer-engineering.lovable.app/quality/standards",
+        content: "https://arulpolymers.com/quality/standards",
       },
       { name: "twitter:card", content: "summary_large_image" },
     ],
     links: [
-      { rel: "canonical", href: "https://arul-polymer-engineering.lovable.app/quality/standards" },
+      { rel: "canonical", href: "https://arulpolymers.com/quality/standards" },
     ],
   }),
   component: StandardsPage,

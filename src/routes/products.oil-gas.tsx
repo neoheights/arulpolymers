@@ -14,14 +14,14 @@ export const Route = createFileRoute("/products/oil-gas")({
       { property: "og:title", content: TITLE },
       { property: "og:description", content: DESC },
       { property: "og:type", content: "article" },
-      { property: "og:url", content: "https://arul-polymer-engineering.lovable.app/products/oil-gas" },
+      { property: "og:url", content: "https://arulpolymers.com/products/oil-gas" },
       { name: "twitter:card", content: "summary_large_image" },
       ...(OIL_GAS_IMAGES[0]?.startsWith("https://") ? [
         { property: "og:image", content: OIL_GAS_IMAGES[0] },
         { name: "twitter:image", content: OIL_GAS_IMAGES[0] },
       ] : []),
     ],
-    links: [{ rel: "canonical", href: "https://arul-polymer-engineering.lovable.app/products/oil-gas" }],
+    links: [{ rel: "canonical", href: "https://arulpolymers.com/products/oil-gas" }],
   }),
   component: OilGasProductsPage,
 });

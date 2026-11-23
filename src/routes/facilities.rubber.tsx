@@ -25,14 +25,14 @@ export const Route = createFileRoute("/facilities/rubber")({
       { property: "og:type", content: "article" },
       {
         property: "og:url",
-        content: "https://arul-polymer-engineering.lovable.app/facilities/rubber",
+        content: "https://arulpolymers.com/facilities/rubber",
       },
       { name: "twitter:card", content: "summary_large_image" },
     ],
     links: [
       {
         rel: "canonical",
-        href: "https://arul-polymer-engineering.lovable.app/facilities/rubber",
+        href: "https://arulpolymers.com/facilities/rubber",
       },
     ],
   }),

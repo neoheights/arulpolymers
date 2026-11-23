@@ -30,14 +30,14 @@ export const Route = createFileRoute("/facilities/r-and-d")({
       {
         property: "og:url",
         content:
-          "https://arul-polymer-engineering.lovable.app/facilities/r-and-d",
+          "https://arulpolymers.com/facilities/r-and-d",
       },
       { name: "twitter:card", content: "summary_large_image" },
     ],
     links: [
       {
         rel: "canonical",
-        href: "https://arul-polymer-engineering.lovable.app/facilities/r-and-d",
+        href: "https://arulpolymers.com/facilities/r-and-d",
       },
     ],
   }),

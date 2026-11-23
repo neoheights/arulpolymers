@@ -13,10 +13,10 @@ export const Route = createFileRoute("/quality/")({
       { property: "og:title", content: TITLE },
       { property: "og:description", content: DESC },
       { property: "og:type", content: "website" },
-      { property: "og:url", content: "https://arul-polymer-engineering.lovable.app/quality" },
+      { property: "og:url", content: "https://arulpolymers.com/quality" },
       { name: "twitter:card", content: "summary_large_image" },
     ],
-    links: [{ rel: "canonical", href: "https://arul-polymer-engineering.lovable.app/quality" }],
+    links: [{ rel: "canonical", href: "https://arulpolymers.com/quality" }],
   }),
   component: QualityPage,
 });

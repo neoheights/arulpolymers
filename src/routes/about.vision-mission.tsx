@@ -19,14 +19,14 @@ export const Route = createFileRoute("/about/vision-mission")({
       { property: "og:type", content: "article" },
       {
         property: "og:url",
-        content: "https://arul-polymer-engineering.lovable.app/about/vision-mission",
+        content: "https://arulpolymers.com/about/vision-mission",
       },
       { name: "twitter:card", content: "summary_large_image" },
     ],
     links: [
       {
         rel: "canonical",
-        href: "https://arul-polymer-engineering.lovable.app/about/vision-mission",
+        href: "https://arulpolymers.com/about/vision-mission",
       },
     ],
   }),

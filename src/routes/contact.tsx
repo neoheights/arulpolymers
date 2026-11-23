@@ -21,10 +21,10 @@ export const Route = createFileRoute("/contact")({
       { property: "og:title", content: TITLE },
       { property: "og:description", content: DESC },
       { property: "og:type", content: "website" },
-      { property: "og:url", content: "https://arul-polymer-engineering.lovable.app/contact" },
+      { property: "og:url", content: "https://arulpolymers.com/contact" },
       { name: "twitter:card", content: "summary_large_image" },
     ],
-    links: [{ rel: "canonical", href: "https://arul-polymer-engineering.lovable.app/contact" }],
+    links: [{ rel: "canonical", href: "https://arulpolymers.com/contact" }],
     scripts: [
       {
         type: "application/ld+json",
@@ -32,7 +32,7 @@ export const Route = createFileRoute("/contact")({
           "@context": "https://schema.org",
           "@type": "Organization",
           name: "Arul Polymers Pvt. Ltd.",
-          url: "https://arul-polymer-engineering.lovable.app",
+          url: "https://arulpolymers.com",
           foundingDate: "1998",
           address: [
             {
