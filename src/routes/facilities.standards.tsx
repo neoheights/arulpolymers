@@ -13,7 +13,7 @@ import saeAsset from "@/assets/standards/sae.jpg.asset.json";
 const TITLE = "Engineering Standards | Arul Polymers Pvt. Ltd.";
 const DESC =
   "Reference standards used for technical applications at Arul Polymers, shown through ASTM, BSI, DIN, HAL, ISI, JIS and SAE alongside NFL, DTD, MIL and MSRR.";
-const CANONICAL = "https://arulpolymers.capsley.site/facilities/standards";
+const CANONICAL = "https://arulpolymers.com/facilities/standards";
 
 const STANDARDS = ["NFL", "DTD", "MIL", "MSRR"] as const;
 const STANDARD_IMAGES = [

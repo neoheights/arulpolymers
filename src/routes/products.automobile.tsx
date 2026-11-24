@@ -13,10 +13,10 @@ export const Route = createFileRoute("/products/automobile")({
       { property: "og:title", content: TITLE },
       { property: "og:description", content: DESC },
       { property: "og:type", content: "article" },
-      { property: "og:url", content: "https://arulpolymers.capsley.site/products/automobile" },
+      { property: "og:url", content: "https://arulpolymers.com/products/automobile" },
       { name: "twitter:card", content: "summary_large_image" },
     ],
-    links: [{ rel: "canonical", href: "https://arulpolymers.capsley.site/products/automobile" }],
+    links: [{ rel: "canonical", href: "https://arulpolymers.com/products/automobile" }],
   }),
   component: AutomobileProductsPage,
 });

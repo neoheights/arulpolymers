@@ -13,10 +13,10 @@ export const Route = createFileRoute("/products/plastic-parts")({
       { property: "og:title", content: TITLE },
       { property: "og:description", content: DESC },
       { property: "og:type", content: "article" },
-      { property: "og:url", content: "https://arulpolymers.capsley.site/products/plastic-parts" },
+      { property: "og:url", content: "https://arulpolymers.com/products/plastic-parts" },
       { name: "twitter:card", content: "summary_large_image" },
     ],
-    links: [{ rel: "canonical", href: "https://arulpolymers.capsley.site/products/plastic-parts" }],
+    links: [{ rel: "canonical", href: "https://arulpolymers.com/products/plastic-parts" }],
   }),
   component: PlasticPartsPage,
 });

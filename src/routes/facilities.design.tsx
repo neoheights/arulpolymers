@@ -23,7 +23,7 @@ export const Route = createFileRoute("/facilities/design")({
     links: [
       {
         rel: "canonical",
-        href: "https://arulpolymers.capsley.site/facilities/design",
+        href: "https://arulpolymers.com/facilities/design",
       },
     ],
   }),

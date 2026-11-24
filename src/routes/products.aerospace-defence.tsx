@@ -13,10 +13,10 @@ export const Route = createFileRoute("/products/aerospace-defence")({
       { property: "og:title", content: TITLE },
       { property: "og:description", content: DESC },
       { property: "og:type", content: "article" },
-      { property: "og:url", content: "https://arulpolymers.capsley.site/products/aerospace-defence" },
+      { property: "og:url", content: "https://arulpolymers.com/products/aerospace-defence" },
       { name: "twitter:card", content: "summary_large_image" },
     ],
-    links: [{ rel: "canonical", href: "https://arulpolymers.capsley.site/products/aerospace-defence" }],
+    links: [{ rel: "canonical", href: "https://arulpolymers.com/products/aerospace-defence" }],
   }),
   component: AerospaceProductsPage,
 });
